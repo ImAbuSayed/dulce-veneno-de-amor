@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-veneno-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Dulce veneno de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-veneno-de-amor/) |
+| **Get License** | [License this song: Dulce veneno de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-veneno-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú eres el plan perfecto de esta madrugada
+> Brillando en la disco, mami, como si nada
+> Esa mirada tuya me tiene en tensión
+> Baby, tú eres mi dulce veneno de amor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
