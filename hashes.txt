@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce veneno de amor
+
+This log tracks the cryptographic history and versioning for the song **Dulce veneno de amor** (dulce-veneno-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T17:00:12.738855 | `v1` | `f0416487fa4979c31d18bf7a6339e4972f9c9b4e48dd67abb275489c6f976409` | `efc25904d8ca54354f507f4db65ebe4282c909dc7766e3c36f8dda0c22e53dae` | `2026-06-17_dulce-veneno-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
